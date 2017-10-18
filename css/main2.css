@@ -1,0 +1,15 @@
+div {
+  background: orange;
+padding: 5px;
+  width :300px;
+  height :200px;
+
+}
+
+p {
+  font-size: 30px;
+  text-align: left;
+}
+
+#col {background-color: black;}
+.letter {color:white;}

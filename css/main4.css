@@ -1,0 +1,17 @@
+div {
+  background: orange;
+  border : 5px solid white ;
+  /*box-sizing: border-box;*/
+  display :inline-block;
+  width: 800;
+  heigth :800px;
+
+}
+
+p {
+  font-size: 30px;
+  text-align: left;
+}
+
+#col {background-color: black;}
+.letter {color:white;}
